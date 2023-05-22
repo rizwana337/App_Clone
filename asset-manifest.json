@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App_Clone/static/css/main.6b77bc07.css",
+    "main.js": "/App_Clone/static/js/main.3e04bede.js",
+    "static/js/787.50ac0ea2.chunk.js": "/App_Clone/static/js/787.50ac0ea2.chunk.js",
+    "index.html": "/App_Clone/index.html",
+    "main.6b77bc07.css.map": "/App_Clone/static/css/main.6b77bc07.css.map",
+    "main.3e04bede.js.map": "/App_Clone/static/js/main.3e04bede.js.map",
+    "787.50ac0ea2.chunk.js.map": "/App_Clone/static/js/787.50ac0ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b77bc07.css",
+    "static/js/main.3e04bede.js"
+  ]
+}
